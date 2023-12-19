@@ -34,7 +34,7 @@ with st.sidebar:
     add_vertical_space(3)
     st.write('---')
 
-load_dotenv()
+load_dotenv()  # load environment variables
 
 
 def main():
