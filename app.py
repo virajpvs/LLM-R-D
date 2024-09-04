@@ -1,8 +1,5 @@
 # streamlit run app.py
 
-# OPENAI_API_KEY: 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
-# huggingface api: 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
-
 import streamlit as st
 from dotenv import load_dotenv
 import pickle
