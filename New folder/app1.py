@@ -1,7 +1,7 @@
 # streamlit run app.py
 
-# OPENAI_API_KEY: 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
-# huggingface api: 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
+# OPENAI_API_KEY: OPENAI_API_KEY
+# huggingface_api: huggingface_api_key
 
 import streamlit as st
 from dotenv import load_dotenv
