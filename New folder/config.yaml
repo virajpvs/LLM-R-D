@@ -1,3 +1,2 @@
-# OPENAI_API_KEY: sk-OmTRNxG80usHx9w1gKWsT3BlbkFJRPLhKJVKE4zZ1hyPOLhas
-OPENAI_API_KEY: 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
-# huggingface api: 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
+OPENAI_API_KEY: your_open_api_key
+huggingface_api: your_huggingace_api_key
