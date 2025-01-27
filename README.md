@@ -1,4 +1,4 @@
-```
+
 # LLM-R-D
 
 ## Overview
@@ -82,14 +82,6 @@ This project is an application that evaluates resumes against job descriptions u
 - google-generativeai
 - pdf2image
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
@@ -98,6 +90,3 @@ This project is licensed under the MIT License.
 - [Google Generative AI](https://ai.google/)
 
 Made with ❤️ by [Prompt Engineer](https://youtube.com/@engineerprompt)
-```
-
-Feel free to customize this README file further to suit your specific needs. Let me know if there are any additional details you would like to include.
